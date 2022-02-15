@@ -1,6 +1,6 @@
 # Python Seminar (AY 250) Homework
 
-Name: Christian H. Bye
+Name: Christian H. Bye \
 E-mail: chbye@berkeley.edu
 
 ## Homework 1
