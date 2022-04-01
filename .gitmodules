@@ -1,3 +1,6 @@
 [submodule "hw_3/calcalc"]
 	path = hw_3/calcalc
 	url = https://github.com/christianhbye/calcalc.git
+[submodule "hw3/calcalc"]
+	path = hw3/calcalc
+	url = https://github.com/christianhbye/calcalc.git
