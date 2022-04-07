@@ -10,3 +10,6 @@ Submitted Homeworks: 1, 3
 
 ## Homework 3
 [HW 3](https://github.com/christianhbye/python_ay_250_hw/blob/main/hw3/hw_3.ipynb) was completed on 02-15-22.
+
+## Homework 6
+[HW 6](https://github.com/christianhbye/python_ay_250_hw/blob/main/hw6/hw6_ml.ipynb) was completed on 04-06-22.
