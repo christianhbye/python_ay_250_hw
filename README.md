@@ -15,4 +15,4 @@ Submitted Homeworks: 1, 3, 6
 [HW 6](https://github.com/christianhbye/python_ay_250_hw/blob/main/hw6/hw6_ml.ipynb) was completed on 04-06-22.
 
 ## Homework 8
-[HW 8](https://github.com/christianhbye/python_ay_250_hw/blob/main/hw8/hw8.ipynb) was partly completed on 04-19-22. I am still working on it and will complete on 04-20-22.
+[HW 8](https://github.com/christianhbye/python_ay_250_hw/blob/main/hw8/hw8.ipynb) was partly completed on 04-19-22 and fully completed 04-21-22 (see git log).
