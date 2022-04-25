@@ -1,3 +1,5 @@
 *.ipynb_checkpoints/
 *.h5
-hw_1/data/Data/
+*.npz
+hw1/data/Data/
+hw9/data/
