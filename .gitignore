@@ -1,5 +1,6 @@
 *.ipynb_checkpoints/
 *.h5
+*.fits
 *.npz
 hw1/data/Data/
 hw9/asteroid/
