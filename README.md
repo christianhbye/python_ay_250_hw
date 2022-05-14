@@ -3,7 +3,7 @@
 Name: Christian H. Bye \
 E-mail: chbye@berkeley.edu
 
-Submitted Homeworks: 1, 3, 6, 8
+Submitted Homeworks: 1, 3, 6, 8, 9 + final project
 
 ## Homework 1
 [HW 1](https://github.com/christianhbye/python_ay_250_hw/blob/main/hw1/hw_1_assignment.ipynb) was completed on 02-01-22.
@@ -19,3 +19,7 @@ Submitted Homeworks: 1, 3, 6, 8
 
 ## Homework 9
 [HW 6](https://github.com/christianhbye/python_ay_250_hw/blob/main/hw9/hw_9.ipynb) was finished on 04-28-22.
+
+
+## Final Project
+The [final project](https://github.com/christianhbye/croissant) was finished on 05-13-22.
